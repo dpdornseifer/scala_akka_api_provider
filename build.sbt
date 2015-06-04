@@ -2,7 +2,7 @@ import sbt._
 import Keys._
 import spray.revolver.RevolverPlugin.Revolver
 
-name := "activator-akka-spray"
+name := "scala_akka_api_provider"
 
 
 version := "1.0"
